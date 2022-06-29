@@ -5,5 +5,7 @@ public class DMI_Automation {
         System.out.println("This line is added by lucky1053");
         System.out.println("This second line is added by lucky1053");
 
+
+        System.out.println("This line is added by lucky150591.");
     }
 }
